@@ -8,7 +8,7 @@ The python libaries: bitarray, tabulate, and unittest.
 
 4 files have been provided but the two main runnables are "techTaskNotebook.ipynb" and "techTaskTests.py"  
 
-"techTaskNotebook.ipynb" allows you to run the prime finding algorithm, it also contains a description of the algorithm and why it is correct. The notebook also shows the perfornance difference between two different prime finding algorithms.  
+"techTaskNotebook.ipynb" allows you to run the prime finding algorithm, it also contains a description of the algorithm and why it is correct. The notebook also shows the performance difference between two different prime finding algorithms.  
 
 "techTaskTests.py" contains unit tests for my prime finding algorithm.  
 
