@@ -27,9 +27,9 @@ def primesUpTo(n):
     # All prime to begin with
     numbers.setall(True)
 
-    # Only needs to look up to the sqrt of n, as when it gets to the sqrt of n
+    # Only needs to look up to the sqrt of n(inclusive), as when it gets to the sqrt of n
     # all of the composite numbers will have been found
-    bound = int(math.sqrt(n))
+    bound = math.ceil(math.sqrt(n)) + 1
 
     for number in range(FIRST_PRIME, bound):
         if isPrime(numbers, number):
