@@ -2,7 +2,7 @@
 
 The tech task invloved the creation of a prime finding algorithm, to find primes in a range of numbers. A complete description of my approach is given in the Jupyter notebook. 
 
-Dependencies:
+Dependencies:  
 Jupyter Lab  
 The python libaries: bitarray, tabulate, and unittest.  
 
