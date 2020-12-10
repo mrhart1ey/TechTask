@@ -4,7 +4,7 @@ The tech task involved the creation of a prime finding algorithm, to find primes
 
 Dependencies:  
 Jupyter Lab  
-The python libaries: bitarray, tabulate, and unittest.  
+The Python libaries: bitarray, tabulate, and unittest.  
 
 4 files have been provided but the two main runnables are "techTaskNotebook.ipynb" and "techTaskTests.py"  
 
@@ -12,6 +12,6 @@ The python libaries: bitarray, tabulate, and unittest.
 
 "techTaskTests.py" contains unit tests for my prime finding algorithm.  
 
-To run "techTaskNotebook.ipynb" simply start Jupyter Lab, use the command "jupyter lab", which will load Jupyter Lab in the brower, then search for the file in the Jupyter Lab interface and open it.  
+To run "techTaskNotebook.ipynb" simply start Jupyter Lab, use the command "jupyter lab", which will load Jupyter Lab in the browser, then search for the file in the Jupyter Lab interface and open it.  
 
 To run the tests simply use the command "python3 techTaskTests.py"
